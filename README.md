@@ -2,7 +2,8 @@
 
 ---
 <h3>[ 프로젝트 사진 ]</h3>
-<img src="https://user-images.githubusercontent.com/62154896/172307745-47005028-a07a-4f24-9221-e80a4071aef1.PNG"/>[ Image Size : 3000*1500 ]<br><br>
+<img src="https://user-images.githubusercontent.com/62154896/172308038-90010152-96ae-4c0d-aa72-b7f2beaf6162.PNG"/>[ Image Size : 3000*1500 ]<br><br>
+
 
 <h3>[ 프로젝트 내용 ]</h3>
 해당 게임에 대한 설명 글 작성.
