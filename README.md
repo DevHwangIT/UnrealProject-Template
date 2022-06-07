@@ -1,4 +1,4 @@
-<h2>Unity Project : [ 프로젝트 이름 ]</h2>
+<h2>Unreal Project : [ 프로젝트 이름 ]</h2>
 
 ---
 <h3>[ 프로젝트 사진 ]</h3>
