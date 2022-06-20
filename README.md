@@ -1,7 +1,7 @@
 <h2>Unreal Project : [ 프로젝트 이름 ]</h2>
 
 ---
-<h3>[ 프로젝트 사진 ]</h3>
+<h3>[ 언리얼 버전 : Unreal Engine 5.0.2 ]</h3>
 <img src="https://user-images.githubusercontent.com/62154896/172308038-90010152-96ae-4c0d-aa72-b7f2beaf6162.PNG"/>[ Image Size : 3000*1500 ]<br><br>
 
 
@@ -52,3 +52,8 @@ public void Print()
 	console.print("Hellow World!!");
 }
 ```
+
+<h4> 참고 자료 </h4>
+
+예제 - 깃허브 링크<br>
+[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/uLR1RNqJ1Mw?t=0s)
