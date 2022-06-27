@@ -46,7 +46,7 @@
 
 <h4> 기능 및 코드 기록 </h4>
 
-```C#
+```C++
 public void Print()
 {
 	console.print("Hellow World!!");
